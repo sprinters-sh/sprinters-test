@@ -4,8 +4,8 @@ Test for your [Sprinters](https://sprinters.sh) setup.
 
 How to use:
 1. Create a repository from this repository template
-2. On your forked repo, edit the [`test.yml` workflow definition](../../edit/main/.github/workflows/test.yml) and replace `your-12-digit-aws-account-id` with your own AWS account ID.
-3. Run the [`sprinters-test` workflow](../../actions/workflows/test.yml) and inspect the workflow run logs.
+2. Run the [`sprinters-test` workflow](../../actions/workflows/test.yml) and inspect the workflow run logs.
+3. Done.
 
 If it was successful, you should see
 
